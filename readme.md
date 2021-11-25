@@ -32,4 +32,16 @@
 [1]:https://www.baidu.com "百度官网"
 [2]:https://www.google.com "谷歌官网"
 
-![测试图片.jpg](https://i.loli.net/2021/11/25/yJo25Ujedbpqfha.jpg) 
+![测试图片.jpg](https://i.loli.net/2021/11/25/yJo25Ujedbpqfha.jpg)
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+
+int main(void)
+{
+	print("输出一段话")；
+	return 0；
+}
+```
